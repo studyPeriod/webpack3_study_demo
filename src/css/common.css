@@ -1,0 +1,13 @@
+.box{
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px dashed green;
+}
+
+.flex_box{
+    display: flex;
+}
+
+.curpointer{
+    cursor: pointer;
+}

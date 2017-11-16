@@ -1,0 +1,7 @@
+#bgImg{
+    width: 400px;
+    height:400px;
+    font-size: 40px;
+    color:darkmagenta;
+    background-image: url("../images/car2.jpg");
+}
